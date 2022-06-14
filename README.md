@@ -21,11 +21,17 @@
 ## ¿Qué es Calculadora?
 Calculadora es una calculadora que calcula cálculos calculables, puedes probar la versión web [aquí](https://marfullsen.github.io/PR-Calculadora/).
 
+## ¿Cuál es el fin de este proyecto?
+Este proyecto se creó con fines de aprendizaje del lenguaje de progración JavaScript usando _Arrow Functions_ y otras novedades que han ido apareciendo en las nuevas versiones de EcmaScript.
+
+## ¿Cómo puedo contribuir?
+Todas las contribuciones son bienvenidas, se recomienda usar [_pull requests_](https://github.com/Marfullsen/PR-Calculadora/pulls).
+
 ## Capturas de pantalla
 
 <div align="center">
   <a href="https://marfullsen.github.io/PR-Calculadora/" rel="noopener">
-  <img src="./docs/img/screenshot_5x5.png" alt="Screenshot 5x5"></a>
+  <img src="./docs/img/screenshot_5x5.png" alt="Screenshot 5x5" width="300"></a>
 </div>
 
 ## Referencias
