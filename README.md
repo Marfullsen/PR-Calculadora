@@ -36,4 +36,5 @@ Todas las contribuciones son bienvenidas, se recomienda usar [_pull requests_](h
 
 ## Referencias
 
-- [Versión original by Carlos Orellana](https://github.com/CarlosOrellana00/Calculadora)
+- [Forkeado del repo de Carlos Orellana](https://github.com/CarlosOrellana00/Calculadora)
+- [Video-tutorial "Crear una calculadora con JavaScript, HTML y CSS desde cero." en YouTube por "Programación Accesible"](https://www.youtube.com/watch?v=7YDagj3cVAk)
